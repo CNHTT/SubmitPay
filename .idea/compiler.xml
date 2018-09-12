@@ -9,5 +9,8 @@
         <module name="SubmitPay" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="SubmitPay" target="1.7" />
+    </bytecodeTargetLevel>
   </component>
 </project>
